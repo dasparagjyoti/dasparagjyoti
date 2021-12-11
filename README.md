@@ -28,3 +28,5 @@
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dasparagjyoti.dasparagjyoti)
+
+[![Github](https://img.shields.io/github/followers/dasparagjyoti?label=Follow&style=social)](https://github.com/dasparagjyoti)
