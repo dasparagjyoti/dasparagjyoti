@@ -30,3 +30,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=dasparagjyoti.dasparagjyoti)
 
 [![Github](https://img.shields.io/github/followers/dasparagjyoti?label=Follow&style=social)](https://github.com/dasparagjyoti)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasparagjyoti&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasparagjyoti&theme=tokyonight)
