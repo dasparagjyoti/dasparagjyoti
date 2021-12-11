@@ -29,5 +29,10 @@
 [![Github](https://img.shields.io/github/followers/dasparagjyoti?label=Follow&style=social)](https://github.com/dasparagjyoti)
 
 ## &#x1f4c8; GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasparagjyoti&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasparagjyoti&theme=tokyonight)
+
+<a href="https://github.com/dasparagjyoti/dasparagjyoti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasparagjyoti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/dasparagjyoti/dasparagjyoti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dasparagjyoti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Krishna's GitHub Stats" />
+</a>
