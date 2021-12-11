@@ -1,4 +1,4 @@
-### Hi there 👋 I am P.J DAS (Punit)
+### Hi there 👋 I am P.J. DAS (Punit)
 
 - 🔭 I’m currently working on AI/ML/DL
 - 🌱 I’m currently learning  Data Analytics & CyberSecurity
