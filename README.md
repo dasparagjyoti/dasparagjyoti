@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate Software Developer from United Kingdom.</h3>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -18,22 +18,22 @@
   
   <span>?????????????????????</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=?????????????????????+Hey!+It's+Himanshu!;I'm+a+Software+Developer.;?+Java+LeetCode+web3.0;I+?+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=?????????????????????+Hey!+It's+Parag!;I'm+a+Software+Developer.;?+Java+LeetCode+web3.0;I+?+DSA..)](https://git.io/typing-svg)
 </div>
 
 
-## ????? About Me
+## 🙋‍♂️ About Me
 
-- ?? I’m currently working on ...**BlockChain**
-- ?? I’m currently learning ... **Web 3.0**
-- ?? I’m looking to collaborate on **YouTube**
-- ???? I always had a fight with me VS me 
-- ?? Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-- ?? How to reach me: ... **jsm.28415@gmail.com**
-- ?? My YouTube channel: ... **CODE_CROSING** 
-- ? Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
+- 🔭 I’m currently working on ...**Machine Learning**
+- 🌱 I’m currently learning ... **Web 3.0**
+- 👯 I’m looking to collaborate on **Leetcode**
+- 👊🤜 I always had a fight with me VS me 
+- 💬 Ask me about ... Artificial Intelligence, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+- 📫 How to reach me: ... **paragjyotidas21@gmail.com**
+- ▶️ My YouTube channel: ... **Upcoming.. .. ..** 
+- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day if I don't have any other work**
 
-## ?? Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -55,21 +55,21 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/jsm-28415/github-readme-streak-stats">
+    <a href="https://github.com/dasparagjyoti/github-readme-streak-stats">
         <img title="?? Get streak stats for your profile at git.io/streak-stats" alt="Himanshu Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jsm-28415&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
-## ?? GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=jsm-28415&column=8)](https://github-profile-trophy.vercel.app/?username=jsm-28415&column=8)
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasparagjyoti&column=8)](https://github-profile-trophy.vercel.app/?username=dasparagjyoti&column=8)
 
-## ?? My Github Stats
+## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/jsm-28415/github-readme-stats"><img alt="Himanshu Malik Github Stats" src="https://github-readme-stats.vercel.app/api?username=jsm-28415&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jsm-28415/github-readme-stats"><img alt="Himanshu Malik Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsm-28415&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/dasparagjyoti/github-readme-stats"><img alt="Parag J. Das Github Stats" src="https://github-readme-stats.vercel.app/api?username=jsm-28415&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/dasparagjyoti/github-readme-stats"><img alt="Parag J. Das Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsm-28415&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -96,17 +96,17 @@
 
 <img align="left" alt="YouTube GIF" width="1000" height="576" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker.gif">
 
-## ? Views and Followers
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jsm-28415">
 </a>
 <a href="https://github.com/jsm-28415?tab=followers"><img src="https://img.shields.io/github/followers/jsm-28415?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## Watch my contribution graph get eaten by the snake ??
+## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
 
-### ??????? Thank You for giving the time ?? to view my GitHub  Profile ????? ??
+### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
