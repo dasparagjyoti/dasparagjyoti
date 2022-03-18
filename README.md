@@ -93,7 +93,7 @@
 
 ## My YouTube Channel
 
-<img align="left" alt="YouTube GIF" width="1000" height="576" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker.gif">
+<img align="left" alt="YouTube GIF" width="1000" height="576" src="https://github.com/dasparagjyoti/Personal/blob/main/ezgif.com-gif-maker.gif">
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -102,7 +102,7 @@
 <a href="https://github.com/dasparagjyoti?tab=followers"><img src="https://img.shields.io/github/followers/dasparagjyoti?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/dasparagjyoti/dasparagjyoti/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
