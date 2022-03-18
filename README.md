@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/dasparagjyoti/github-readme-activity-graph"><img alt="Parag J. Das Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jsm-28415&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/dasparagjyoti/github-readme-activity-graph"><img alt="Parag J. Das Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dasparagjyoti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
