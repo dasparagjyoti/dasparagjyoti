@@ -96,10 +96,8 @@
 <img align="left" alt="YouTube GIF" width="1000" height="576" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker.gif">
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dasparagjyoti">
-</a>
-<a href="https://github.com/dasparagjyoti?tab=followers"><img src="https://img.shields.io/github/followers/jsm-28415?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jsm-28415?tab=followers"><img src="https://img.shields.io/github/followers/jsm-28415?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
