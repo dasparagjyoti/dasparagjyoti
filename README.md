@@ -91,9 +91,6 @@
 
 </p>
 
-## My YouTube Channel(Upcoming......)
-
-<img align="left" alt="YouTube GIF" width="1000" height="576" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker.gif">
 
 ## ❤ Views and Followers
 <a href="https://github.com/dasparagjyoti?tab=followers"><img src="https://img.shields.io/github/followers/dasparagjyoti?label=Followers&style=social" alt="GitHub Badge"></a>
