@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
 <!-- <a href="#"><img width="1280" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/123224.gif" height="175px"/></a> -->
-<a href="#"><img width="1280" height="auto" src="https://github.com/dasparagjyoti/dasparagjyoti/blob/625389ef2b34674388561d3ff04a09c46bccc638/Personal/123224.gif" height="175px"/></a> 
+<a href="#"><img width="1000" height="auto" src="https://github.com/dasparagjyoti/dasparagjyoti/blob/625389ef2b34674388561d3ff04a09c46bccc638/Personal/123224.gif" height="175px"/></a> 
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
