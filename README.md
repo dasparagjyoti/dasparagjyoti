@@ -74,13 +74,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/dasparagjyoti/github-readme-activity-graph"><img alt="Parag J. Das Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dasparagjyoti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <p align="left">
